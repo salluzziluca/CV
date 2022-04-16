@@ -90,22 +90,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Cambrigde Certificate of Proficency in English (CPE)",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-12-01",
-        "institution": {
-          "name": "Cambridge Assesment English ",
-          "description": "",
-          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
-          "image": {
-            "alt": "unnamed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/48d3001a-b95b-444d-9902-13c66fdfa6c1_unnamed.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Intensive English Program: Culture and English as a Second Lenguage",
         "startDate": "2018-07-01",
         "finishDate": "2019-08-01",
@@ -116,6 +100,22 @@
           "image": {
             "alt": "download (2).png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/2df2ea8b-cbff-44e0-a052-c867344ff683_download-(2).png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certificate of Proficency in English (CPE)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Cambridge Assesment English ",
+          "description": "",
+          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/48d3001a-b95b-444d-9902-13c66fdfa6c1_unnamed.jpg"
           }
         }
       },
