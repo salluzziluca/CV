@@ -85,6 +85,37 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Software Engineer Dregree",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)",
+          "description": "",
+          "URL": "https://www.fi.uba.ar/",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/4b17d9c0-4907-450e-86a2-5a341e3e4ae6_download-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
