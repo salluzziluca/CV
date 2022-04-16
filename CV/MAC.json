@@ -88,6 +88,18 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Cambrigde Certificate of Proficency in English (CPE)",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Cambridge Assesment English ",
+          "description": "",
+          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Software Engineer Dregree",
