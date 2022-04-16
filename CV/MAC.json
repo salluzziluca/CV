@@ -51,12 +51,13 @@
       },
       {
         "organization": {
-          "name": "Asociación Argentina de Jugadores de Básquetbol"
+          "name": "Asociación Argentina de Jugadores de Básquetbol",
+          "URL": ""
         },
         "roles": [
           {
             "name": "Basketball Event Organizer",
-            "startDate": "2021-04-01",
+            "startDate": "2020-03-01",
             "challenges": [
               {
                 "description": "I help with the organization of 3x3 basketball tournaments. I am next to the court taking notes of every match second by second in order to record properly the development of the event."
