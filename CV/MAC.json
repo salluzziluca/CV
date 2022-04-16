@@ -96,7 +96,11 @@
         "institution": {
           "name": "Cambridge Assesment English ",
           "description": "",
-          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/"
+          "URL": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
+          "image": {
+            "alt": "unnamed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/48d3001a-b95b-444d-9902-13c66fdfa6c1_unnamed.jpg"
+          }
         }
       },
       {
