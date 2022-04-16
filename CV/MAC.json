@@ -100,6 +100,12 @@
           "name": "C",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Excel",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
