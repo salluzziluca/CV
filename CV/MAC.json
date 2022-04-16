@@ -120,6 +120,22 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Working in a Digital World: Professional Skills.",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "I.B.M.",
+          "description": "A course imparted by IBM that focuses on soft professional skills as making presentations, solving problems, organizing a team, along with others.",
+          "URL": "https://www.credly.com/org/ibm-skillsbuild/badge/working-in-a-digital-world-professional-skills",
+          "image": {
+            "alt": "png-transparent-ibm-logo-think-ibm-blue-angle-text.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/711ef5e6-46a7-4a7d-bcd7-ce881ca561a3_png-transparent-ibm-.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Software Engineer Dregree",
