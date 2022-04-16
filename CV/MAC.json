@@ -21,6 +21,36 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sport Protection",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/16/4fe05101-7f39-40b6-b8f5-72ae25363094_download.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Finacial Recorder at Sportwears Company",
+            "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "I recieve orders from clients and I convert it to excel in which I sumarize the information of what they want and how they want it. Then I create another excel sheet in which I show them a clear view of their budget"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
