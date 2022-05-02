@@ -224,6 +224,22 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
