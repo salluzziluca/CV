@@ -30,6 +30,16 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Some Project from my Lectures and Courses",
+        "type": "other",
+        "URL": "https://github.com/salluzziluca/Algo2Mendez/tree/main",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
       }
     ]
   },
