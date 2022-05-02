@@ -19,6 +19,18 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/luca-salluzzi-9b47301b7/"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Landing Page Project",
+        "type": "other",
+        "URL": "https://salluzziluca.github.io/odin-project-landing-page/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
