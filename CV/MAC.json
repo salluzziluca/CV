@@ -26,6 +26,17 @@
     ],
     "recommendations": [
       {
+        "title": "First and oldest web page project (from Cs50)",
+        "type": "other",
+        "URL": "https://salluzziluca.github.io/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ],
+        "summary": "Project 0 from Cs50 course, Harvard University.\n(the page isn't entirely finished)"
+      },
+      {
         "title": "Landing Page Project",
         "type": "other",
         "URL": "https://salluzziluca.github.io/odin-project-landing-page/",
